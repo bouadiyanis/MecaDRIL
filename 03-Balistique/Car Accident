@@ -25,7 +25,8 @@ def parabole(v_0, alpha):
     plt.ylabel('Vertical movement of the bullet')
     plt.title('Trajectory of the lauched bullet')
     plt.axes().set_aspect('equal')
-    plt.show()
+    plt.show() 
+    
     
 
 
